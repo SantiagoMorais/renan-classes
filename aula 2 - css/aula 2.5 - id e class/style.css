@@ -1,0 +1,17 @@
+/* p {
+
+} */
+
+/* para estilizar classes, use ponto . */
+.product-description {
+    background-color: aqua;
+}
+
+.product-description.promotion {
+    border: 1px solid red;
+}
+
+/* para estilizar um id, use # */
+#unique {
+    background-color: greenyellow;
+}

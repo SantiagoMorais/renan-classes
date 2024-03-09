@@ -1,0 +1,22 @@
+.paragrafo1 {
+    color: rgb(92, 218, 9);
+    color: rgb(red, green, blue);
+}
+
+.paragrafo2 {
+    color: rgba(255,0,0,.3);
+    color: rgba(red, green, blue, alpha);
+    /* alpha é a transparência */
+}
+
+.paragrafo3 {
+    color: hsl(0, 43%, 47%);
+    color: hsl(hue, saturation, lightness);
+}
+
+.paragrafo4 {
+    color: #00ff00;
+    /* 0123456789abcdef */
+}
+
+

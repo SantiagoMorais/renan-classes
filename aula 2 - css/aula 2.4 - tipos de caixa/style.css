@@ -1,0 +1,13 @@
+.div {
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+span {
+    background-color: aqua;
+    margin: 20px;
+    border: 1px solid;
+    padding: 10px;
+    
+}

@@ -1,0 +1,19 @@
+.produtos {
+    border: 1px solid;
+}
+
+.produtos .tecnologia {
+    background-color: blue;
+}
+
+.produtos .tecnologia .hightlight {
+    background-color: yellow;
+}
+
+.produtos .produtos-de-limpeza {
+    background-color: red;
+}
+
+.produtos .produtos-de-limpeza .hightlight {
+    background-color: green;
+}

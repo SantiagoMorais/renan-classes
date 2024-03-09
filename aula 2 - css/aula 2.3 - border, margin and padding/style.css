@@ -1,0 +1,19 @@
+.paragrafo1 {
+    /* margin: 30px; */
+    /* margin: 25px 10px; */
+    /* margin: 25px 10px 13px 20px; */
+}
+
+.paragrafo2 {
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+}
+
+.paragrafo3 {
+    border: 1px solid blue;
+    border-color: red;
+    border-width: 5px;
+    border-style: dashed;
+    margin: 10px;
+}
